@@ -6,7 +6,7 @@ from behavioral.state import Radio
 
 class RadioTest(unittest.TestCase):
     """
-    Is Attention: Test case results depend on test case execution. The test cases
+    Attention: Test case results depend on test case execution. The test cases
     in this integration test class should be executed in an explicit order:
     http://stackoverflow.com/questions/5387299/python-unittest-testcase-execution-order
     """
